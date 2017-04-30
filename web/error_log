@@ -1,0 +1,9 @@
+[21-Feb-2016 00:04:57 UTC] PHP Parse error:  syntax error, unexpected 'Vertex' (T_STRING) in /home/cissaorg/public_html/codebrew.net.au/wp-content/themes/Vertex/footer.php on line 17
+[21-Feb-2016 00:59:26 UTC] PHP Parse error:  syntax error, unexpected 'Vertex' (T_STRING) in /home/cissaorg/public_html/codebrew.net.au/wp-content/themes/Vertex/footer.php on line 17
+[13-Jul-2016 05:28:19 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/cissaorg/public_html/codebrew.com.au/wp-includes/class-wp-xmlrpc-server.php on line 580
+[08-Aug-2016 23:09:35 Australia/Melbourne] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/codebrew.com.au/wp-settings.php on line 21
+[08-Aug-2016 23:09:35 Australia/Melbourne] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/codebrew.com.au/wp-settings.php on line 21
+[08-Aug-2016 23:09:35 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/codebrew.com.au/wp-settings.php on line 21
+[10-Aug-2016 14:33:55 Australia/Melbourne] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/codebrew.com.au/wp-settings.php on line 21
+[10-Aug-2016 14:33:55 Australia/Melbourne] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/codebrew.com.au/wp-settings.php on line 21
+[10-Aug-2016 14:33:55 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/codebrew.com.au/wp-settings.php on line 21

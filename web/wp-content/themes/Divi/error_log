@@ -1,0 +1,6 @@
+[06-Aug-2016 21:23:10 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_action() in /home/cissaorg/public_html/codebrew.com.au/wp-content/themes/Divi/functions.php on line 73
+[08-Aug-2016 02:53:52 Australia/Melbourne] PHP Fatal error:  Call to undefined function language_attributes() in /home/cissaorg/public_html/codebrew.com.au/wp-content/themes/Divi/header.php on line 3
+[08-Aug-2016 02:53:55 Australia/Melbourne] PHP Fatal error:  Call to undefined function et_get_option() in /home/cissaorg/public_html/codebrew.com.au/wp-content/themes/Divi/footer.php on line 1
+[08-Aug-2016 02:53:57 Australia/Melbourne] PHP Fatal error:  Call to undefined function get_header() in /home/cissaorg/public_html/codebrew.com.au/wp-content/themes/Divi/404.php on line 1
+[10-Aug-2016 14:32:03 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_action() in /home/cissaorg/public_html/codebrew.com.au/wp-content/themes/Divi/functions.php on line 73
+[25-Oct-2016 18:22:19 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/cissaorg/public_html/codebrew.com.au/wp-content/themes/Divi/404.php on line 1
